@@ -1,4 +1,5 @@
 name=" John"
-print("hello",name)
+surname=" Omosehin"
+print("hello",name,surname)
 print("welcome to python")
 
